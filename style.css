@@ -2,7 +2,7 @@
     width: 100%;
 }
 .back-1 {
-    background-image: url("/img/bg-1.jpeg");
+    background-image: url("./img/bg-1.jpeg");
     background-size: 100%;
     display: block;
 }

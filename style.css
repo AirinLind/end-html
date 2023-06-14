@@ -96,7 +96,7 @@
 
 .img-2-1 {
     min-height: 40%;
-    background-image: url("./img/tb1.jpg");
+    background-image: url("./img/2-1.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -104,7 +104,7 @@
 
 .img-2-2 {
     min-height: 40%;
-    background-image: url("../img/tb2.jpeg");
+    background-image: url("../img/2-2.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -112,14 +112,14 @@
 
 .img-2-3 {
     min-height: 40%;
-    background-image: url("../img/tb3.jpeg");
+    background-image: url("../img/2-3.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-3-1 {
-    background-image: url("../img/node1.jpeg");
+    background-image: url("../img/3-1.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@
 }
 
 .img-3-2 {
-    background-image: url("../img/node2.jpg");
+    background-image: url("../img/3-2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -135,21 +135,21 @@
 }
 
 .img-4-1 {
-    background-image: url("../img/colPic1.jpeg");
+    background-image: url("../img/4-1.jpeg");
     background-position-y: 80%;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-4-2 {
-    background-image: url("../img/colPic2.jpeg");
+    background-image: url("../img/4-2.jpeg");
     background-position-y: 80%;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-4-3 {
-    background-image: url("../img/tb1.jpg");
+    background-image: url("../img/2-1.jpg");
     background-position-y: 60%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -209,37 +209,6 @@
     padding-bottom: 3%;
 }
 
-.main{
-    font-size: 300%;
-    color: black;
-}
-
-.second{
-    font-size: 170%;
-    color:black;
-}
-
-.shadow{
-    text-shadow: 50% 50% 100% black;
-}
-
-.tiny{
-    font-family: Optima, sans-serif;
-    font-size: 170%;
-    color:black;
-}
-
-.krasivo{
-    font-family:  serif;
-    margin-bottom: 1%;
-    color:black;
-}
-
-.little{
-    width: 100%;
-    color:black;
-}
-
 @media (max-width: 750px) {
     .mg-{
         margin-left: -60px;
@@ -254,7 +223,7 @@
     .img-2-1 {
         min-height: 750px;
         width: 100%;
-        background-image: url("./img/tb1.jpg");
+        background-image: url("./img/2-1.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -262,7 +231,7 @@
     .img-2-2 {
         min-height: 750px;
         width: 100%;
-        background-image: url("../img/tb2.jpeg");
+        background-image: url("./img/2-2.jpeg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -272,7 +241,7 @@
     .img-2-3 {
         min-height: 750px;
         width: 100%;
-        background-image: url("../img/tb3.jpeg");
+        background-image: url("./img/2-3.jpeg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -281,13 +250,13 @@
     
     .img-3-1 {
         width: 100%;
-        background-image: url("../img/node1.jpeg");
+        background-image: url("./img/3-1.jpeg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
     }
     .img-4-1 {
-        background-image: url("../img/colPic1.jpeg");
+        background-image: url("./img/.img-4-1.jpeg");
         background-position-y: 80%;
         width: 100%;
         background-repeat: no-repeat;
@@ -295,7 +264,7 @@
     
     .img-4-2 {
         size: 100%;
-        background-image: url("../img/colPic2.jpeg");
+        background-image: url("./img/4-2.jpeg");
         background-position-y: 80%;
         width: 250px;
         margin-left: -60px;
@@ -303,7 +272,7 @@
     }
     
     .img-4-3 {
-        background-image: url("../img/tb1.jpg");
+        background-image: url("./img/2-1.jpg");
         background-position-y: 60%;
         width: 250px;
         margin-left: -60px;
@@ -336,4 +305,34 @@
         width: 10px;
         color:black;
     }
+}
+.main{
+    font-size: 300%;
+    color: black;
+}
+
+.second{
+    font-size: 170%;
+    color:black;
+}
+
+.shadow{
+    text-shadow: 50% 50% 100% black;
+}
+
+.tiny{
+    font-family: Optima, sans-serif;
+    font-size: 170%;
+    color:black;
+}
+
+.krasivo{
+    font-family:  serif;
+    margin-bottom: 1%;
+    color:black;
+}
+
+.little{
+    width: 100%;
+    color:black;
 }

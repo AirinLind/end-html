@@ -104,7 +104,7 @@
 
 .img-2-2 {
     min-height: 40%;
-    background-image: url("../img/2-2.jpeg");
+    background-image: url("./img/2-2.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -112,14 +112,14 @@
 
 .img-2-3 {
     min-height: 40%;
-    background-image: url("../img/2-3.jpeg");
+    background-image: url("./img/2-3.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-3-1 {
-    background-image: url("../img/3-1.jpeg");
+    background-image: url("./img/3-1.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -127,7 +127,7 @@
 }
 
 .img-3-2 {
-    background-image: url("../img/3-2.jpg");
+    background-image: url("./img/3-2.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -135,21 +135,21 @@
 }
 
 .img-4-1 {
-    background-image: url("../img/4-1.jpeg");
+    background-image: url("./img/4-1.jpeg");
     background-position-y: 80%;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-4-2 {
-    background-image: url("../img/4-2.jpeg");
+    background-image: url("./img/4-2.jpeg");
     background-position-y: 80%;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .img-4-3 {
-    background-image: url("../img/2-1.jpg");
+    background-image: url("./img/2-1.jpg");
     background-position-y: 60%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -336,4 +336,3 @@
     width: 100%;
     color:black;
 }
-
